@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apd:home|Door43 (apd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apd|d43-apd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apd/archive/master.zip|d43-apd.zip]]
+
+**Recent Changes**
+{{changes>ns = apd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apd|Ethnologue data]]
+
